@@ -1,0 +1,15 @@
+E:\Users\X\Desktop\HW6\howmany\bin\Debug\net6.0\howmany.exe
+E:\Users\X\Desktop\HW6\howmany\bin\Debug\net6.0\howmany.deps.json
+E:\Users\X\Desktop\HW6\howmany\bin\Debug\net6.0\howmany.runtimeconfig.json
+E:\Users\X\Desktop\HW6\howmany\bin\Debug\net6.0\howmany.dll
+E:\Users\X\Desktop\HW6\howmany\bin\Debug\net6.0\howmany.pdb
+E:\Users\X\Desktop\HW6\howmany\obj\Debug\net6.0\howmany.csproj.AssemblyReference.cache
+E:\Users\X\Desktop\HW6\howmany\obj\Debug\net6.0\howmany.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\X\Desktop\HW6\howmany\obj\Debug\net6.0\howmany.AssemblyInfoInputs.cache
+E:\Users\X\Desktop\HW6\howmany\obj\Debug\net6.0\howmany.AssemblyInfo.cs
+E:\Users\X\Desktop\HW6\howmany\obj\Debug\net6.0\howmany.csproj.CoreCompileInputs.cache
+E:\Users\X\Desktop\HW6\howmany\obj\Debug\net6.0\howmany.dll
+E:\Users\X\Desktop\HW6\howmany\obj\Debug\net6.0\refint\howmany.dll
+E:\Users\X\Desktop\HW6\howmany\obj\Debug\net6.0\howmany.pdb
+E:\Users\X\Desktop\HW6\howmany\obj\Debug\net6.0\howmany.genruntimeconfig.cache
+E:\Users\X\Desktop\HW6\howmany\obj\Debug\net6.0\ref\howmany.dll
